@@ -1,0 +1,4 @@
+name = Publish Limit
+description = Limit the number of items a user can have published
+package = Custom
+core = 6.x
